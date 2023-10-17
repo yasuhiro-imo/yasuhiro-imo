@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yasuhiro-imo/yasuhiro-imo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasuhiro-imo&theme=2077)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yasuhiro-imo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=yasuhiro-imo&theme=tokyonight)
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yasuhiro-imo&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+
+[![github-chart](https://github-chart.vercel.app/api?user=yasuhiro-imo)](https://github.com/yasuhiro-imo/github-chart)
