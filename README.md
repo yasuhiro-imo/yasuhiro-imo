@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasuhiro-imo&theme=2077)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yasuhiro-imo&theme=onedark)](https://github-profile-trophy.vercel.app/?username=yasuhiro-imo&theme=tokyonight)
